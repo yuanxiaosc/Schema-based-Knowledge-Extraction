@@ -1,6 +1,8 @@
 # Schema-based-Knowledge-Extraction
 Code for http://lic2019.ccf.org.cn/kg 信息抽取。使用基于 BERT 的实体抽取和关系抽取的联合端到端模型。
 
+More efficient task solutions：https://github.com/yuanxiaosc/Multiple-Relations-Extraction-Only-Look-Once
+
 ## 竞赛简介
 信息抽取(Information Extraction, IE)是从自然语言文本中抽取实体、属性、关系及事件等事实类信息的文本处理技术，是信息检索、智能问答、智能对话等人工智能应用的重要基础，一直受到业界的广泛关注。信息抽取任务涉及命名实体识别、指代消解、关系分类等复杂技术，极具挑战性。本次竞赛发布基于schema约束的SPO信息抽取任务，即在给定schema集合下，从自然语言文本中抽取出符合schema要求的SPO三元组知识。本次竞赛将提供业界规模最大的基于schema的中文信息抽取数据集(Schema based Knowledge Extraction, SKE)，旨在为研究者提供学术交流平台，进一步提升中文信息抽取技术的研究水平，推动相关人工智能应用的发展。
 
